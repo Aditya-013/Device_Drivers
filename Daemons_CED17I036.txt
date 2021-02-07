@@ -1,0 +1,36 @@
+﻿DAEMONS
+ 
+AMD - Auto Mount Daemon: Amd is a daemon that automatically mounts filesystems whenever a file or directory within that filesystem is accessed.
+
+
+APMD - Advanced Power Management Daemon: apmd is an APM monitoring daemon, and works in conjunction with the APM BIOS driver in the OS kernel.
+
+
+ATD  - Runs jobs queued using the at tool:  atd is a job scheduler daemon that runs jobs scheduled for later execution.
+
+
+CROND - The task scheduler daemon:: The crond daemon is the background service that enables cron functionality. 
+
+
+CUPSD - CUPS printer daemon:: cupsd is the scheduler for CUPS. It implements a printing system based upon the Internet Printing Protocol
+
+
+FTPD - FTP Server Daemon:: The ftpd daemon is an Internet File Transfer Protocol server. It uses the TCP protocol
+
+
+GATED - routing daemon that handles multiple routing protocols and replaces routed and egpup
+
+
+HTTPD - Web Server Daemon:: HTTP Daemon is a software program that runs in the background of a web server and waits for the incoming server requests.
+
+
+INETD - Internet Superserver Daemon::netd (internet service daemon) is a super-server daemon on many Unix systems that provides Internet services.
+
+
+MOUNTD - mount daemon::The mountd daemon is a Remote Procedure Call (RPC) that answers a client request to mount a file system.
+
+
+SMBD - The smbd daemon provides the file and print services to SMB clients, such as Windows 95/98, Windows NT, Windows for Workgroups or LanManager. 
+
+
+NFSD - Network File Sharing Daemon. The nfsd daemon runs on a server and handles client requests for file system operations. Each daemon handles one request at a time.
